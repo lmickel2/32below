@@ -31,10 +31,10 @@ body{
 }
 .nav-bar{
     color: white;
-    width: 50%;
+    width: 100%;
     display: flex;
-    justify-content: space-around;
-    font-size: 24pt;
+    justify-content: space-evenly;
+    font-size: 30pt;
 }
 .nav-option{
     font-family: "Montserrat";
