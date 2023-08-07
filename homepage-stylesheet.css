@@ -10,7 +10,7 @@ body{
     flex-direction: column;
 }
 .location-header{
-    height: 6em;
+    height: 4em;
     background-color: white;
     color: #1057b5;
     border-color: #1057b5;
@@ -19,11 +19,11 @@ body{
     display: flex;
     justify-content: space-evenly;
     font-family: "Montserrat";
-    font-size: 16pt;
+    font-size: 20pt;
     text-align: center;
 }
 #locaction-image{
-    width: 33%;
+    width: 20%;
 }
 .cherry-logo{
     width: 100%;
