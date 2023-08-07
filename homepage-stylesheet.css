@@ -38,6 +38,8 @@ body{
 }
 .nav-option{
     font-family: "Montserrat";
+    color: white;
+    text-decoration: none;
 }
 #logo-container{
     display: flex;
