@@ -92,3 +92,9 @@ body{
     display: flex;
     justify-content: center;
 }
+
+.selected-option{
+    font-family: "Montserrat";
+    color: rgb(255,200,36);
+    text-decoration: none;
+}
