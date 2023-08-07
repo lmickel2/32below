@@ -31,10 +31,10 @@ body{
 }
 .nav-bar{
     color: white;
-    width: 45%;
+    width: 50%;
     display: flex;
     justify-content: space-around;
-    font-size: 16pt;
+    font-size: 24pt;
 }
 .nav-option{
     font-family: "Montserrat";
@@ -58,7 +58,7 @@ body{
 }
 #icecream-container{
     position: relative;
-    top: 20%;
+    top: 10%;
     width: 60%;
 }
 .title-div{
