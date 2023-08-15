@@ -70,6 +70,12 @@ body{
 #icecream-img-container{
     width: 20em;
 }
+@media (max-width: 768px) {
+    #icecream-img-container {
+      max-width: 60%; /* Adjust width to 60% for phones */
+    }
+}
+
 .title-div{
     border-color: white;
     color: white;
